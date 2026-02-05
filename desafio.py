@@ -1,8 +1,5 @@
 # Desafio
 
-
-
-
 # Crie uma função que mostre se os números são pares ou ímpares, começando do 0 até um número máximo indicado como entrada na função.
 
 # Você deve:
@@ -16,6 +13,7 @@
 # Dica: Para verificar se um número é par, o resto da divisão do número por 2 é igual a 0 => num % 2 == 0:
 
 # 1 - Definir função, que recebe o número máximo como parâmetro
+
 def verificar_numeros(maximo):
   print(f"O valor {maximo} é o limite")
 
